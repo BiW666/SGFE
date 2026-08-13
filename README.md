@@ -13,6 +13,8 @@ scene graph generation. It consists of three main components:
 - Global Semantic Encoding (GSE)
 - Vision-Text Consistency Alignment (VTC)
 
+![SGFE Framework](assets/framework.png)
+
 ## Code
 
 🚧 **Code is coming soon.**
